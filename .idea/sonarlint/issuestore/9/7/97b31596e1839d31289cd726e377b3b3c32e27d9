@@ -1,0 +1,47 @@
+
+R
+java:S18545"<Remove this useless assignment to local variable "supplier".(Ô¸ÿÅ
+V
+java:S18543";Remove this useless assignment to local variable "consume".(™òœíÿÿÿÿÿ
+U
+java:S1854-"?Remove this useless assignment to local variable "lengthCheck".(‹‹Ç
+S
+java:S1854)"=Remove this useless assignment to local variable "upperCase".(øÒö
+N
+java:S1854"8Remove this useless assignment to local variable "nums".(¦Šéï
+?
+java:S1481")Remove this unused "nums" local variable.(¦Šéï
+V	java:S125"<This block of commented-out lines of code should be removed.(©Øê›üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‹ŒÉŠüÿÿÿÿ
+Y
+java:S1612">Replace this lambda with method reference 'Integer::intValue'.(‹ŒÉŠüÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(¸ô‘Ş
+Q	java:S125 "<This block of commented-out lines of code should be removed.(ÆŞÒ¯
+q
+java:S4276)"[Refactor this code to use the more specialised Functional Interface 'UnaryOperator<String>'(øÒö
+V	java:S125'"<This block of commented-out lines of code should be removed.(Ü§›Êıÿÿÿÿ
+H
+java:S1611)"2Remove the parentheses around the "name" parameter(øÒö
+i
+java:S1602)"SRemove useless curly braces around statement and then remove useless return keyword(øÒö
+V
+java:S1612)"@Replace this lambda with method reference 'String::toUpperCase'.(øÒö
+D
+java:S1481)".Remove this unused "upperCase" local variable.(øÒö
+F
+java:S1481-"0Remove this unused "lengthCheck" local variable.(‹‹Ç
+V	java:S125/"<This block of commented-out lines of code should be removed.(ÿ‰· şÿÿÿÿ
+Q	java:S1252"<This block of commented-out lines of code should be removed.(©‰œŸ
+S	java:S1063"9Replace this use of System.out or System.err by a logger.(™òœíÿÿÿÿÿ
+G
+java:S14813",Remove this unused "consume" local variable.(™òœíÿÿÿÿÿ
+C
+java:S14815"-Remove this unused "supplier" local variable.(Ô¸ÿÅ
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+C
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX
+E
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ
+S
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ

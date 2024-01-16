@@ -1,0 +1,9 @@
+
+r	java:S127 "XRefactor the code in order to not assign to this loop counter from within the loop body.( æƒ«ýÿÿÿÿ
+m	java:S127""XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
+8
+java:S16595""Declare "high" on a separate line.(‘­Ã°
+Q	java:S1254"<This block of commented-out lines of code should be removed.(±•×©
+Q	java:S1254"<This block of commented-out lines of code should be removed.(±•×©
+N	java:S1069"9Replace this use of System.out or System.err by a logger.(È°Ž
+Q	java:S1256"<This block of commented-out lines of code should be removed.(˜öüÎ

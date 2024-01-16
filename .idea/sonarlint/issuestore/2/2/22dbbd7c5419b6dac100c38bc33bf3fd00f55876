@@ -1,0 +1,7 @@
+
+]
+java:S1192J"GDefine a constant instead of duplicating this literal "Sucess" 3 times.(Ô’÷£
+h	java:S1005"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šì½Áùÿÿÿÿ
+N	java:S106X"9Replace this use of System.out or System.err by a logger.(ŒÔÄ’
+A
+java:S5960J"+Remove this assertion from production code.(Ô’÷£

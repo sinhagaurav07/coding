@@ -20,7 +20,7 @@ public class PrintFamilyTree {
         obj.addToFamilyTree("Shweta","Pari");obj.addToFamilyTree("Gaurav","Atharv");
         obj.addToFamilyTree("Gaurav","Sreeja");obj.addToFamilyTree("Rishu","Reyansh");
 
-        obj.printFamily("Gaurav");
+        obj.printFamily("MPSinha");
     }
 
     public void addToFamilyTree(String parent, String child){
